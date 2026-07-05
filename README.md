@@ -1,5 +1,3 @@
-Here is a README file generated based on the provided project details and screenshots.
-
 ---
 
 # Crime Analysis Project
