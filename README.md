@@ -118,5 +118,4 @@ Based on the visual outputs generated for this project, the Tableau dashboards i
 
 * **Comparative Analysis:** Displays bar charts comparing arrest outcomes (e.g., comparing the volume of incidents where an arrest was made vs. not made) and evaluating incident severity across different categories.
 
----
 https://public.tableau.com/views/TableauProjectCrimeAnalysis/CourseEndProjectCrimeAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
